@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+nav {
+  background-color: white;
+  padding: 10px;
+  border: 4px solid;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+nav input {
+  width: 50px;
+}
+section {
+  height: 100vh;
+  border: 10px solid;
+  box-sizing: border-box;
+}
